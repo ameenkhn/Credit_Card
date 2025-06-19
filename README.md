@@ -91,6 +91,3 @@ The API documentation is available at http://localhost:8000/docs when the backen
 4. Push to the branch
 5. Create a Pull Request
 
-## License
-
-MIT License 
